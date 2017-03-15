@@ -1,0 +1,2 @@
+# cycleScrollViewBySwift
+模仿oc版的SDCycleScrollView ，学习swift。目前还很粗糙，只是为了学习swift的使用
